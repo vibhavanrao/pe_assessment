@@ -1,8 +1,8 @@
 Steps 
 
 ```
-git clone
-cd 
+git clone https://github.com/atulkamble/WebsiteProjectAWSEC2S3.git
+cd WebsiteProjectAWSEC2S3
 ```
 
 1. Launch EC2 and Connect it using SSH
