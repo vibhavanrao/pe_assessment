@@ -1,3 +1,12 @@
+#  Hosting a Static Website with EC2 and S3
+
+# Clone Repo
+```
+git clone https://github.com/atulkamble/aws-ec2-s3-static-website.git
+cd aws-ec2-s3-static-website
+```
+
+
 ### **Steps and Codes**
 
 1. **Launch EC2 and Connect it using SSH**
