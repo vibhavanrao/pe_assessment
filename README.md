@@ -66,7 +66,7 @@
      </head>
      <body>
          <h1>Welcome to My Static Website!</h1>
-         <img src="http://your-bucket-name.s3.amazonaws.com/Coffee.img" alt="Coffee Image">
+         <img src="http://your-bucket-name.s3.amazonaws.com/Coffee.png" alt="Coffee Image">
      </body>
      </html>
      ```
